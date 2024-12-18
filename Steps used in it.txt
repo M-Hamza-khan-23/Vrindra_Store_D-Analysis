@@ -1,0 +1,5 @@
+1)Data Cleaning
+2)Data Processing
+3)Data Analysis
+4)Interactive DB
+5)Insights
